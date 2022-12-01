@@ -1,0 +1,15 @@
+C:\Users\Usuario\Documents\Metodologías de Programación\Metodologías de Programación\bin\Debug\net6.0\Metodologías de Programación.exe
+C:\Users\Usuario\Documents\Metodologías de Programación\Metodologías de Programación\bin\Debug\net6.0\Metodologías de Programación.deps.json
+C:\Users\Usuario\Documents\Metodologías de Programación\Metodologías de Programación\bin\Debug\net6.0\Metodologías de Programación.runtimeconfig.json
+C:\Users\Usuario\Documents\Metodologías de Programación\Metodologías de Programación\bin\Debug\net6.0\Metodologías de Programación.dll
+C:\Users\Usuario\Documents\Metodologías de Programación\Metodologías de Programación\bin\Debug\net6.0\Metodologías de Programación.pdb
+C:\Users\Usuario\Documents\Metodologías de Programación\Metodologías de Programación\obj\Debug\net6.0\Metodologías de Programación.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\Metodologías de Programación\Metodologías de Programación\obj\Debug\net6.0\Metodologías de Programación.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\Metodologías de Programación\Metodologías de Programación\obj\Debug\net6.0\Metodologías de Programación.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\Metodologías de Programación\Metodologías de Programación\obj\Debug\net6.0\Metodologías de Programación.AssemblyInfo.cs
+C:\Users\Usuario\Documents\Metodologías de Programación\Metodologías de Programación\obj\Debug\net6.0\Metodologías de Programación.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\Metodologías de Programación\Metodologías de Programación\obj\Debug\net6.0\Metodologías de Programación.dll
+C:\Users\Usuario\Documents\Metodologías de Programación\Metodologías de Programación\obj\Debug\net6.0\refint\Metodologías de Programación.dll
+C:\Users\Usuario\Documents\Metodologías de Programación\Metodologías de Programación\obj\Debug\net6.0\Metodologías de Programación.pdb
+C:\Users\Usuario\Documents\Metodologías de Programación\Metodologías de Programación\obj\Debug\net6.0\Metodologías de Programación.genruntimeconfig.cache
+C:\Users\Usuario\Documents\Metodologías de Programación\Metodologías de Programación\obj\Debug\net6.0\ref\Metodologías de Programación.dll
